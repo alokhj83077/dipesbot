@@ -795,7 +795,7 @@ except:
 try:
     IMAGE_URL = getConfig('IMAGE_URL')
 except KeyError:
-    IMAGE_URL = 'https://graph.org/file/6b22ef7b8a733c5131d3f.jpg'
+    IMAGE_URL = 'https://wallpapercave.com/w/wp9419144'
 try:
     EMOJI_THEME = getConfig('EMOJI_THEME')
     EMOJI_THEME = EMOJI_THEME.lower() == 'true'
